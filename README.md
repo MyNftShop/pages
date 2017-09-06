@@ -1,2 +1,5 @@
-# pages.github.io
-github pages 的使用测试
+# PAGES的使用DEMO
+
+开发者程序员交流学习QQ群 157978042 欢迎加入
+
+2017年9月7日 
